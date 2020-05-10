@@ -20,5 +20,5 @@ The goal of this application was to allow a user to manage a wooden plank storag
 
 ## __User Guide__
 
-- Launch the .jap file
-- Control the position of the loader with key Arrow and the height of the arms with O and P key.
+- Launch the ".jar" file
+- Control the position of the loader with the Arrow and the height of the arms with "O" and "P".
